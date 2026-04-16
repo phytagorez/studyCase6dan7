@@ -111,6 +111,6 @@ class Program
 
         Order pesananBaru = new Order("ORD-001", "RESI-XYZ-999");
 
-        Console.WriteLine("\nSimulasi Selesai.");
+        Console.WriteLine("\nSimulasi Selesai...");
     }
 }
